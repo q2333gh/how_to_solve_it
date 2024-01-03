@@ -19,3 +19,9 @@ which may or may not be confirmed by experience and stricter reasoning`
 
 # Auxiliary problem
 ![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+# Bolzano: An explaination on Heuristic 
+![Alt text](image-8.png)
+![Alt text](image-9.png)
