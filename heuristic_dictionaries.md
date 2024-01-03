@@ -24,4 +24,6 @@ which may or may not be confirmed by experience and stricter reasoning`
 
 # Bolzano: An explaination on Heuristic 
 ![Alt text](image-8.png)
+
+# Bright idea
 ![Alt text](image-9.png)
